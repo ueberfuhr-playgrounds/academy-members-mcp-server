@@ -3,7 +3,7 @@
 A Spring Boot-based Model Context Protocol (MCP) server that provides information about academy members.
 
 > [!NOTE]
-> This is a sample project for demonstration purposes.
+> This is a sample project for demonstration purposes based on [this article](https://medium.com/@saphynogenov/mcp-server-with-spring-ai-d38639e6391a).
 
 ## Overview
 
