@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Academy Members MCP Server
+  ai:
+    mcp:
+      server:
+        name: academy-members-mcp-server
+        version: 1.0.0
