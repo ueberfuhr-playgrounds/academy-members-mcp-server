@@ -8,3 +8,13 @@ spring:
         version: 1.0.0
         protocol: streamable
         type: sync
+        streamable-http:
+          mcp-endpoint: /mcp
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
