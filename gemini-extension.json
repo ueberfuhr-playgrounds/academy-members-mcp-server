@@ -4,7 +4,7 @@
   "mcpServers": {
     "local": {
       "description": "Tools to query and manage academy members via MCP server.",
-      "httpUrl": "http://localhost:8080/sse"
+      "httpUrl": "http://localhost:8080/mcp"
     }
   }
 }

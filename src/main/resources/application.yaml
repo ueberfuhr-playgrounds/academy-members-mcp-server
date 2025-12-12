@@ -6,3 +6,5 @@ spring:
       server:
         name: academy-members-mcp-server
         version: 1.0.0
+        protocol: streamable
+        type: sync
