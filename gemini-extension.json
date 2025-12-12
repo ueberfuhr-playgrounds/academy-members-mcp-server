@@ -1,0 +1,12 @@
+{
+  "name": "academy-members",
+  "version": "1.0.0",
+  "description": "Tools to query and manage academy members via MCP server.",
+  "mcp": {
+    "transport": "http",
+    "url": "http://localhost:8080/sse"
+  },
+  "auth": {
+    "type": "none"
+  }
+}
